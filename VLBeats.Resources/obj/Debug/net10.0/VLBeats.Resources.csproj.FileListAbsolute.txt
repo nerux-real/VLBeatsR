@@ -1,0 +1,14 @@
+C:\Users\NERUX\Desktop\DEV\Projects\VLBeats\VLBeats.Resources\bin\Debug\net10.0\VLBeats.Resources.deps.json
+C:\Users\NERUX\Desktop\DEV\Projects\VLBeats\VLBeats.Resources\bin\Debug\net10.0\VLBeats.Resources.dll
+C:\Users\NERUX\Desktop\DEV\Projects\VLBeats\VLBeats.Resources\bin\Debug\net10.0\VLBeats.Resources.pdb
+C:\Users\NERUX\Desktop\DEV\Projects\VLBeats\VLBeats.Resources\bin\Debug\net10.0\VLBeats.Resources.xml
+C:\Users\NERUX\Desktop\DEV\Projects\VLBeats\VLBeats.Resources\obj\Debug\net10.0\VLBeats.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NERUX\Desktop\DEV\Projects\VLBeats\VLBeats.Resources\obj\Debug\net10.0\VLBeats.Resources.AssemblyInfoInputs.cache
+C:\Users\NERUX\Desktop\DEV\Projects\VLBeats\VLBeats.Resources\obj\Debug\net10.0\VLBeats.Resources.AssemblyInfo.cs
+C:\Users\NERUX\Desktop\DEV\Projects\VLBeats\VLBeats.Resources\obj\Debug\net10.0\VLBeats.Resources.csproj.CoreCompileInputs.cache
+C:\Users\NERUX\Desktop\DEV\Projects\VLBeats\VLBeats.Resources\obj\Debug\net10.0\VLBeats.Resources.dll
+C:\Users\NERUX\Desktop\DEV\Projects\VLBeats\VLBeats.Resources\obj\Debug\net10.0\refint\VLBeats.Resources.dll
+C:\Users\NERUX\Desktop\DEV\Projects\VLBeats\VLBeats.Resources\obj\Debug\net10.0\VLBeats.Resources.xml
+C:\Users\NERUX\Desktop\DEV\Projects\VLBeats\VLBeats.Resources\obj\Debug\net10.0\VLBeats.Resources.pdb
+C:\Users\NERUX\Desktop\DEV\Projects\VLBeats\VLBeats.Resources\obj\Debug\net10.0\ref\VLBeats.Resources.dll
+C:\Users\NERUX\Desktop\DEV\Projects\VLBeats\VLBeats.Resources\obj\Debug\net10.0\VLBeats..62158D1E.Up2Date

@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NERUX\\Desktop\\DEV\\Projects\\VLBeats\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADACD09-7BE3-46A1-AEAB-C41E78E8700F}|VLBeats.Game\\VLBeats.Game.csproj|c:\\users\\nerux\\desktop\\dev\\projects\\vlbeats\\vlbeats.game\\displays\\gameplay\\playfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADACD09-7BE3-46A1-AEAB-C41E78E8700F}|VLBeats.Game\\VLBeats.Game.csproj|solutionrelative:vlbeats.game\\displays\\gameplay\\playfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADACD09-7BE3-46A1-AEAB-C41E78E8700F}|VLBeats.Game\\VLBeats.Game.csproj|c:\\users\\nerux\\desktop\\dev\\projects\\vlbeats\\vlbeats.game\\displays\\screens\\beatmapselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADACD09-7BE3-46A1-AEAB-C41E78E8700F}|VLBeats.Game\\VLBeats.Game.csproj|solutionrelative:vlbeats.game\\displays\\screens\\beatmapselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADACD09-7BE3-46A1-AEAB-C41E78E8700F}|VLBeats.Game\\VLBeats.Game.csproj|c:\\users\\nerux\\desktop\\dev\\projects\\vlbeats\\vlbeats.game\\displays\\screens\\mainmenuscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADACD09-7BE3-46A1-AEAB-C41E78E8700F}|VLBeats.Game\\VLBeats.Game.csproj|solutionrelative:vlbeats.game\\displays\\screens\\mainmenuscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADACD09-7BE3-46A1-AEAB-C41E78E8700F}|VLBeats.Game\\VLBeats.Game.csproj|c:\\users\\nerux\\desktop\\dev\\projects\\vlbeats\\vlbeats.game\\displays\\screens\\introscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADACD09-7BE3-46A1-AEAB-C41E78E8700F}|VLBeats.Game\\VLBeats.Game.csproj|solutionrelative:vlbeats.game\\displays\\screens\\introscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADACD09-7BE3-46A1-AEAB-C41E78E8700F}|VLBeats.Game\\VLBeats.Game.csproj|c:\\users\\nerux\\desktop\\dev\\projects\\vlbeats\\vlbeats.game\\vlbeatsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADACD09-7BE3-46A1-AEAB-C41E78E8700F}|VLBeats.Game\\VLBeats.Game.csproj|solutionrelative:vlbeats.game\\vlbeatsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADACD09-7BE3-46A1-AEAB-C41E78E8700F}|VLBeats.Game\\VLBeats.Game.csproj|c:\\users\\nerux\\desktop\\dev\\projects\\vlbeats\\vlbeats.game\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADACD09-7BE3-46A1-AEAB-C41E78E8700F}|VLBeats.Game\\VLBeats.Game.csproj|solutionrelative:vlbeats.game\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Playfield.cs",
+              "DocumentMoniker": "C:\\Users\\NERUX\\Desktop\\DEV\\Projects\\VLBeats\\VLBeats.Game\\Displays\\Gameplay\\Playfield.cs",
+              "RelativeDocumentMoniker": "VLBeats.Game\\Displays\\Gameplay\\Playfield.cs",
+              "ToolTip": "C:\\Users\\NERUX\\Desktop\\DEV\\Projects\\VLBeats\\VLBeats.Game\\Displays\\Gameplay\\Playfield.cs",
+              "RelativeToolTip": "VLBeats.Game\\Displays\\Gameplay\\Playfield.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:33:40.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BeatmapSelect.cs",
+              "DocumentMoniker": "C:\\Users\\NERUX\\Desktop\\DEV\\Projects\\VLBeats\\VLBeats.Game\\Displays\\Screens\\BeatmapSelect.cs",
+              "RelativeDocumentMoniker": "VLBeats.Game\\Displays\\Screens\\BeatmapSelect.cs",
+              "ToolTip": "C:\\Users\\NERUX\\Desktop\\DEV\\Projects\\VLBeats\\VLBeats.Game\\Displays\\Screens\\BeatmapSelect.cs",
+              "RelativeToolTip": "VLBeats.Game\\Displays\\Screens\\BeatmapSelect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:22:46.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntroScreen.cs",
+              "DocumentMoniker": "C:\\Users\\NERUX\\Desktop\\DEV\\Projects\\VLBeats\\VLBeats.Game\\Displays\\Screens\\IntroScreen.cs",
+              "RelativeDocumentMoniker": "VLBeats.Game\\Displays\\Screens\\IntroScreen.cs",
+              "ToolTip": "C:\\Users\\NERUX\\Desktop\\DEV\\Projects\\VLBeats\\VLBeats.Game\\Displays\\Screens\\IntroScreen.cs",
+              "RelativeToolTip": "VLBeats.Game\\Displays\\Screens\\IntroScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T20:41:14.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenuScreen.cs",
+              "DocumentMoniker": "C:\\Users\\NERUX\\Desktop\\DEV\\Projects\\VLBeats\\VLBeats.Game\\Displays\\Screens\\MainMenuScreen.cs",
+              "RelativeDocumentMoniker": "VLBeats.Game\\Displays\\Screens\\MainMenuScreen.cs",
+              "ToolTip": "C:\\Users\\NERUX\\Desktop\\DEV\\Projects\\VLBeats\\VLBeats.Game\\Displays\\Screens\\MainMenuScreen.cs",
+              "RelativeToolTip": "VLBeats.Game\\Displays\\Screens\\MainMenuScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T20:41:40.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainScreen.cs",
+              "DocumentMoniker": "C:\\Users\\NERUX\\Desktop\\DEV\\Projects\\VLBeats\\VLBeats.Game\\MainScreen.cs",
+              "RelativeDocumentMoniker": "VLBeats.Game\\MainScreen.cs",
+              "ToolTip": "C:\\Users\\NERUX\\Desktop\\DEV\\Projects\\VLBeats\\VLBeats.Game\\MainScreen.cs",
+              "RelativeToolTip": "VLBeats.Game\\MainScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T20:12:47.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VLBeatsGame.cs",
+              "DocumentMoniker": "C:\\Users\\NERUX\\Desktop\\DEV\\Projects\\VLBeats\\VLBeats.Game\\VLBeatsGame.cs",
+              "RelativeDocumentMoniker": "VLBeats.Game\\VLBeatsGame.cs",
+              "ToolTip": "C:\\Users\\NERUX\\Desktop\\DEV\\Projects\\VLBeats\\VLBeats.Game\\VLBeatsGame.cs",
+              "RelativeToolTip": "VLBeats.Game\\VLBeatsGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T20:13:59.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

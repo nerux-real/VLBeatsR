@@ -1,0 +1,11 @@
+﻿{
+  "solution": {
+    "path": "VLBeats.sln",
+    "projects": [
+      "VLBeats.Desktop\\VLBeats.Desktop.csproj",
+      "VLBeats.Game\\VLBeats.Game.csproj",
+      "VLBeats.Game.Tests\\VLBeats.Game.Tests.csproj",
+      "VLBeats.Resources\\VLBeats.Resources.csproj"
+    ]
+  }
+}
