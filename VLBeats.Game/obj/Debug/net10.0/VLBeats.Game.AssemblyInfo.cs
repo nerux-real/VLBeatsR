@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VLBeats.Game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+381779d5e739c2ea7cda1439242741b2b6d5622a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b32014f1d8ab0965f052e3372fecd4e92a29f7ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("VLBeats.Game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VLBeats.Game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
